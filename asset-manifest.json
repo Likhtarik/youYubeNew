@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/youYubeNew/static/css/main.7064deb2.css",
+    "main.js": "/youYubeNew/static/js/main.076e3ca6.js",
+    "static/media/DSC_4331.jpg": "/youYubeNew/static/media/DSC_4331.e664b09092873e758440.jpg",
+    "index.html": "/youYubeNew/index.html",
+    "main.7064deb2.css.map": "/youYubeNew/static/css/main.7064deb2.css.map",
+    "main.076e3ca6.js.map": "/youYubeNew/static/js/main.076e3ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.076e3ca6.js"
+  ]
+}
